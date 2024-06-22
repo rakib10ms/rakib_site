@@ -1881,6 +1881,10 @@ footer .footer .copyright a:hover{
 
 }
 
+.team_members{
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 35px;
+}
 
 
 
